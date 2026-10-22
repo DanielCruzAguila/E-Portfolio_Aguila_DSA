@@ -7,7 +7,23 @@
 
 ## PRELIMS
 ```
-|- HOA 
+Hands-On-Activity 1.1
+    ├── 📁 PDF File
+    ├── 📁 .cpp File
+    ├── 📁 .h File
+
+Hands-On-Activity 2.1
+    ├── 📁 PDF File
+    ├── 📁 .cpp File
+    ├── 📁 .h File
+
+Hands-On-Activity 3.1
+    ├── 📁 PDF File
+    ├── 📁 .cpp File
+    ├── 📁 .h File
+
+
+
 |- Exam
 ```
 
